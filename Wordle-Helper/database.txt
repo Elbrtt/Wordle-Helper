@@ -1,0 +1,5 @@
+tuple
+apple
+alter
+vocal
+found
