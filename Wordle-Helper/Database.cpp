@@ -12,7 +12,7 @@ void word::print()
 }
 Database::Database()
 {
-	processData("db.txt");
+	processData("DataFile/db.txt");
 }
 
 void Database::processData(const string& filename)
